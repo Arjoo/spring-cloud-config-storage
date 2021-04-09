@@ -1,0 +1,3 @@
+book-info-service:
+  name: Prod
+  desc: This is prod file desc
